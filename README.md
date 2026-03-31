@@ -110,7 +110,6 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 **Chinmay V Chatradamath**
-🏢 IQROGUEREX
 
 ---
 
