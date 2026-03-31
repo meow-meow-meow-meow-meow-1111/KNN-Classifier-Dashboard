@@ -12,7 +12,7 @@
 
 ## 🌐 Live Demo
 
-[![Live App](https://img.shields.io/badge/🚀%20Launch-App-blue?style=for-the-badge)](https://your-streamlit-app-link-here)
+[![Live App](https://img.shields.io/badge/🚀%20Launch-App-blue?style=for-the-badge)](https://knnclassifierbychinmay.streamlit.app/)
 
 > Replace the above link with your deployed Streamlit app (Streamlit Cloud / Render / HuggingFace Spaces)
 
