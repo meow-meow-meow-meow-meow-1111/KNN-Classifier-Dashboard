@@ -109,7 +109,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Chinmay V Chatradamath.**
+**Chinmay V Chatradamath...**
 
 ---
 
